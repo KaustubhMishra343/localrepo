@@ -2,5 +2,6 @@ p{
     background-color:aquamarine;
     text-align: center;
     color:darkblue;
+    font-size: 100px;
     -webkit-text-stroke: 2px gold;
 }
